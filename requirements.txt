@@ -1,0 +1,7 @@
+telethon>=1.34.0
+flask>=2.3.0
+requests>=2.31.0
+aiohttp>=3.9.0
+stripe>=8.0.0
+portalocker>=2.0.0
+gunicorn>=21.0.0
